@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Edit(/.claude/skills/chat-warmth/**)",
+      "Read(//c/Users/Administrator/.claude/**)"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\Administrator\\.claude"
+    ]
+  }
+}
