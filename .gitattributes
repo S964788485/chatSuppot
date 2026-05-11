@@ -1,0 +1,2 @@
+# PDF files are binary, do not apply text conversion
+*.pdf -diff
