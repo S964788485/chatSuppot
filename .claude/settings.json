@@ -2,7 +2,12 @@
   "permissions": {
     "allow": [
       "Edit(/.claude/skills/chat-warmth/**)",
-      "Read(//c/Users/Administrator/.claude/**)"
+      "Read(//c/Users/Administrator/.claude/**)",
+      "Bash(python -c ' *)",
+      "Bash(where python *)",
+      "Bash(pdftotext -layout \"d:\\\\chatSkills\\\\doc\\\\高价值吸引宝典.pdf\" -)",
+      "Bash(pdftotext -enc UTF-8 \"d:\\\\chatSkills\\\\doc\\\\高价值吸引宝典.pdf\" -)",
+      "Edit(/.claude/skills/girlfriend-chat/**)"
     ],
     "additionalDirectories": [
       "C:\\Users\\Administrator\\.claude"
