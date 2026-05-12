@@ -7,7 +7,9 @@
       "Bash(where python *)",
       "Bash(pdftotext -layout \"d:\\\\chatSkills\\\\doc\\\\高价值吸引宝典.pdf\" -)",
       "Bash(pdftotext -enc UTF-8 \"d:\\\\chatSkills\\\\doc\\\\高价值吸引宝典.pdf\" -)",
-      "Edit(/.claude/skills/girlfriend-chat/**)"
+      "Edit(/.claude/skills/girlfriend-chat/**)",
+      "Bash(pdftotext -enc UTF-8 \"d:\\\\chatSkills\\\\doc\\\\聊天方法.pdf\" -)",
+      "Bash(pdftotext -enc UTF-8 \"d:\\\\chatSkills\\\\doc\\\\深入读懂女生心理不对外传的读心大法\\(1\\).pdf\" -)"
     ],
     "additionalDirectories": [
       "C:\\Users\\Administrator\\.claude"
