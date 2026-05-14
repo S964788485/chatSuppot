@@ -54,7 +54,9 @@
       "Bash(rm \"d:/chatSkills/.claude/skills/girlfriend-chat/skill_new.md\")",
       "Bash(/c/Users/Administrator/AppData/Local/Programs/Python/Python310/python.exe -c ' *)",
       "Bash(sed -n 220,489p d:/chatSkills/.claude/skills/girlfriend-chat/skill.md)",
-      "Read(//tmp/**)"
+      "Read(//tmp/**)",
+      "Bash(sed -n '1948,1950p' \"d:/chatSkills/.claude/skills/girlfriend-chat/skill.md\")",
+      "Bash(sed -n '1989,1991p' \"d:/chatSkills/.claude/skills/girlfriend-chat/skill.md\")"
     ],
     "additionalDirectories": [
       "C:\\Users\\Administrator\\.claude",
