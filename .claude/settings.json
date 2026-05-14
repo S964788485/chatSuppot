@@ -56,7 +56,13 @@
       "Bash(sed -n 220,489p d:/chatSkills/.claude/skills/girlfriend-chat/skill.md)",
       "Read(//tmp/**)",
       "Bash(sed -n '1948,1950p' \"d:/chatSkills/.claude/skills/girlfriend-chat/skill.md\")",
-      "Bash(sed -n '1989,1991p' \"d:/chatSkills/.claude/skills/girlfriend-chat/skill.md\")"
+      "Bash(sed -n '1989,1991p' \"d:/chatSkills/.claude/skills/girlfriend-chat/skill.md\")",
+      "Bash(sed -n 164,220p d:/chatSkills/.claude/skills/girlfriend-chat/skill.md)",
+      "Bash(sed -n 221,350p d:/chatSkills/.claude/skills/girlfriend-chat/skill.md)",
+      "Bash(sed -n 1,218p d:/chatSkills/.claude/skills/girlfriend-chat/skill.md)",
+      "Bash(sed -n '405,$p' d:/chatSkills/.claude/skills/girlfriend-chat/skill.md)",
+      "Bash(sed -i '1s/^## 五、快速自我检查/## 三、快速自我检查/' /tmp/part1_bottom.md)",
+      "Bash(cat /tmp/part1_top.md /tmp/part1_bottom.md)"
     ],
     "additionalDirectories": [
       "C:\\Users\\Administrator\\.claude",
