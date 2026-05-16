@@ -5,7 +5,16 @@
       "Bash(git reset *)",
       "Bash(git add *)",
       "Bash(file img/*.jpg)",
-      "Bash(git commit -m ' *)"
+      "Bash(git commit -m ' *)",
+      "Bash(git checkout *)",
+      "Bash(mkdir -p .claude/skills/maintain-attraction)",
+      "Bash(cat ~/.claude/settings.json 2>/dev/null || echo \"not found\")",
+      "Read(//c/Users/Lin/.claude/**)",
+      "Bash(cat ~/.claude.json 2>/dev/null || echo \"not found\"; cat ~/.claude/config.json 2>/dev/null || echo \"not found\")",
+      "Read(//c/Users/Lin/**)"
+    ],
+    "additionalDirectories": [
+      "D:\\aiSkill\\chatSuppot\\.claude\\skills"
     ]
   }
 }
